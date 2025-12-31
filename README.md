@@ -27,6 +27,10 @@ ShellNotes is a minimalist, keyboard-driven note management system built for dev
 - 🔒 **Privacy First** - Local-only storage, plain Markdown files in `~/.ShellNotes`
 - ⚡ **Zero Dependencies** - Single binary with no external runtime requirements
 
+## Demo
+
+![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/b526a154-d75c-4170-ba8f-dbf12d52499d)
+
 ## Installation
 
 ### Using Go Install
